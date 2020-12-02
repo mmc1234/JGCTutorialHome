@@ -23,4 +23,4 @@
 [MC 物品NBT的写法](https://emxtutorials.wordpress.com/adding-nbt-data-to-items/)  
 
 [Part1 我没名字](PART1.md)  
-[GLFW和glad配置](Configuration OpenGL.md) 
+[GLFW和glad配置](CONFIGURATION OpenGL.md) 
