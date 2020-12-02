@@ -5,7 +5,7 @@
 
 [MBOIT基于矩的顺序无关alpha混合](https://cg.ivd.kit.edu/english/mboit.php)  
 [OpenGL进阶之Instancing](https://www.cnblogs.com/hellobb/p/8891374.html)  
-[Geometry Instancing](http://www.zwqxin.com/archives/opengl/talk-about-geometry-  instancing.html)  
+[Geometry Instancing](http://www.zwqxin.com/archives/opengl/talk-about-geometry-instancing.html)  
 [OpenGL API文档 ](https://www.khronos.org/registry/OpenGL-Refpages/gl4/)  
 
 [VAO, VBO, EBO](https://www.cnblogs.com/yy-86/articles/9545264.html)  
