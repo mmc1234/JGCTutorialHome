@@ -22,4 +22,5 @@
 [MC Forge Mod 1.12.2开发教程](https://www.mcbbs.net/forum.php?mod=viewthread&tid=849410&extra=page%3D1%26filter%3Dtypeid%26typeid%3D1028)  
 [MC 物品NBT的写法](https://emxtutorials.wordpress.com/adding-nbt-data-to-items/)  
 
-* [Part1 我没名字](PART1.md)  
+[Part1 我没名字](PART1.md)  
+[OpenGL 配置](Configuration OpenGL.md)  
